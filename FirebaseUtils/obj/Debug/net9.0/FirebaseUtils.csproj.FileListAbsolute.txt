@@ -1,0 +1,12 @@
+/Users/nhlakaniphombotho/c#_projects/FirebaseUtils/bin/Debug/net9.0/FirebaseUtils.deps.json
+/Users/nhlakaniphombotho/c#_projects/FirebaseUtils/bin/Debug/net9.0/FirebaseUtils.dll
+/Users/nhlakaniphombotho/c#_projects/FirebaseUtils/bin/Debug/net9.0/FirebaseUtils.pdb
+/Users/nhlakaniphombotho/c#_projects/FirebaseUtils/obj/Debug/net9.0/FirebaseUtils.csproj.AssemblyReference.cache
+/Users/nhlakaniphombotho/c#_projects/FirebaseUtils/obj/Debug/net9.0/FirebaseUtils.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nhlakaniphombotho/c#_projects/FirebaseUtils/obj/Debug/net9.0/FirebaseUtils.AssemblyInfoInputs.cache
+/Users/nhlakaniphombotho/c#_projects/FirebaseUtils/obj/Debug/net9.0/FirebaseUtils.AssemblyInfo.cs
+/Users/nhlakaniphombotho/c#_projects/FirebaseUtils/obj/Debug/net9.0/FirebaseUtils.csproj.CoreCompileInputs.cache
+/Users/nhlakaniphombotho/c#_projects/FirebaseUtils/obj/Debug/net9.0/FirebaseUtils.dll
+/Users/nhlakaniphombotho/c#_projects/FirebaseUtils/obj/Debug/net9.0/refint/FirebaseUtils.dll
+/Users/nhlakaniphombotho/c#_projects/FirebaseUtils/obj/Debug/net9.0/FirebaseUtils.pdb
+/Users/nhlakaniphombotho/c#_projects/FirebaseUtils/obj/Debug/net9.0/ref/FirebaseUtils.dll
